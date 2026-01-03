@@ -8,8 +8,8 @@ import Padding from './Tailwind CSS/Padding'
 import Margin from './Tailwind CSS/Margin'
 import Zindex from './Tailwind CSS/Zindex'
 import Opacity from './Tailwind CSS/Opacity'
-import AlignItem from './Tailwind CSS/Align/AlignItem'
-import JustifyItems from './Tailwind CSS/Justify/JustifyItems'
+import AlignItem from './Align/AlignItem'
+import JustifyItems from './Justify/JustifyItems'
 
 
 function App() {  
