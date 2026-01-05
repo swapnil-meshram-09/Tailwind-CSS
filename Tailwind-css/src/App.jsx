@@ -17,17 +17,6 @@
 // import Position from "./Tailwind CSS/Postion/Position"
 
 
-// import UseState from "./Hooks/UseState/UseState"
-// import Question1 from "./Hooks/UseState/Question1"
-import UseEffect from "./Hooks/UseEffect/UseEffect"
-
-// import Default from "./Props/Default"
-// import {Default2} from "./Props/Default"
-// import String from "./Props/String"
-// import Number from "./Props/Number"
-// import Array from "./Props/Array"
-import Object from "./Props/Object"
-
 
 function App() {  
 
@@ -67,26 +56,8 @@ function App() {
     <Fixed /> 
 
     <Position />
-
-    <UseState /> 
-
-    <Default />
-
-    <Default2 attribute ='value' />
     
-    <String attribute='name'/>
-
-    <Question1 />
-
-    <Number attribute={123}/>
-
-    <Array attribute={[1,2,3]}/>
-
-    <Object attribute={{name:'name'}}/>
-
-    */}
-
-    <UseEffect />
+   */}
 
 
 
